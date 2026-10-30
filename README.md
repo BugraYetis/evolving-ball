@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Evolving Ball
+# ⚽ Evolving Ball
 
 **Mobil Oyun · Hyper Casual Oyun**
 
